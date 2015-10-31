@@ -1,0 +1,761 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"play",
+				"play_again"
+			],
+			[
+				"bla",
+				"BLACKJACK_AMOUNT"
+			],
+			[
+				"B",
+				"BLACKJACK_AMOUNT"
+			],
+			[
+				"black",
+				"blackjack_or_bust"
+			],
+			[
+				"player",
+				"player_or_dealer"
+			],
+			[
+				"is",
+				"is_busted"
+			],
+			[
+				"show",
+				"show_hand"
+			],
+			[
+				"deal",
+				"deal_one"
+			],
+			[
+				"add",
+				"add_card"
+			],
+			[
+				"att",
+				"attr_accessor"
+			],
+			[
+				"to",
+				"total"
+			],
+			[
+				"face",
+				"face_value"
+			],
+			[
+				"all",
+				"all_squares_marked"
+			],
+			[
+				"emp",
+				"empty_squares"
+			],
+			[
+				"Comp",
+				"Comparable"
+			],
+			[
+				"at",
+				"attr_accessor"
+			],
+			[
+				"glaz",
+				"glazing_string"
+			],
+			[
+				"filling",
+				"filling_type"
+			],
+			[
+				"my",
+				"my_truck"
+			],
+			[
+				"total",
+				"total_vehicles"
+			],
+			[
+				"My",
+				"MyTruck"
+			],
+			[
+				"speed",
+				"speed_up"
+			],
+			[
+				"spe",
+				"speed_up"
+			],
+			[
+				"C",
+				"Comp	include Comparable .."
+			],
+			[
+				"dealer",
+				"dealer_total"
+			],
+			[
+				"new",
+				"new_card"
+			],
+			[
+				"ply",
+				"player_total"
+			],
+			[
+				"player_",
+				"player_total"
+			],
+			[
+				"ht",
+				"hit_or_stay"
+			],
+			[
+				"card",
+				"card_values"
+			],
+			[
+				"dea",
+				"dealer_hand"
+			],
+			[
+				"check",
+				"check_winner"
+			],
+			[
+				"empty",
+				"empty_positions"
+			],
+			[
+				"dra",
+				"draw_board"
+			],
+			[
+				"do",
+				"dob	Insert do |variable| … end"
+			],
+			[
+				"p",
+				"p"
+			],
+			[
+				"win",
+				"winning_choice"
+			],
+			[
+				"computer",
+				"computer_choice"
+			],
+			[
+				"com",
+				"computer_choice"
+			],
+			[
+				"nume",
+				"number_1"
+			],
+			[
+				"ask",
+				"ask_for_number"
+			],
+			[
+				"nu",
+				"number_1"
+			],
+			[
+				"in",
+				"input_1"
+			],
+			[
+				"cal",
+				"calc_input"
+			],
+			[
+				"title",
+				"titleize"
+			],
+			[
+				"fl",
+				"flintstones"
+			],
+			[
+				"adi",
+				"additional_ages"
+			],
+			[
+				"delete",
+				"delete_if"
+			],
+			[
+				"contact",
+				"contact_data"
+			],
+			[
+				"each",
+				"each_with_index"
+			],
+			[
+				"second",
+				"secondname"
+			],
+			[
+				"user",
+				"user_choice"
+			],
+			[
+				"end",
+				"end_year"
+			],
+			[
+				"up",
+				"UP"
+			],
+			[
+				"cu",
+				"current_line"
+			],
+			[
+				"current",
+				"current_line"
+			],
+			[
+				"curr",
+				"current_file"
+			],
+			[
+				"print",
+				"print_a_line"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "main.rb",
+			"settings":
+			{
+				"buffer_size": 966,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "views/game.erb",
+			"settings":
+			{
+				"buffer_size": 960,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 240.0,
+		"last_filter": "todo",
+		"selected_items":
+		[
+			[
+				"todo",
+				"TodoReview: Open Files"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"setting s",
+				"Preferences: Settings - User"
+			],
+			[
+				"package control",
+				"Preferences: Package Control Settings – Default"
+			],
+			[
+				"packa",
+				"Preferences: Browse Packages"
+			],
+			[
+				"pci",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: inst",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"keyb",
+				"Preferences: Key Bindings - User"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 435.0
+	},
+	"console":
+	{
+		"height": 139.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"import urllib.request,os;",
+			"import urllib2,os; pf='Package Control.sublime-package'; ipp = sublime.installed_packages_path(); os.makedirs( ipp ) if not os.path.exists(ipp) else None; urllib2.install_opener( urllib2.build_opener( urllib2.ProxyHandler( ))); open( os.path.join( ipp, pf), 'wb' ).write( urllib2.urlopen( 'http://sublime.wbond.net/' +pf.replace( ' ','%20' )).read()); print( 'Please restart Sublime Text to finish installation')",
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"import urllib2,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); os.makedirs( ipp ) if not os.path.exists(ipp) else None; urllib2.install_opener( urllib2.build_opener( urllib2.ProxyHandler()) ); by = urllib2.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); open( os.path.join( ipp, pf), 'wb' ).write(by) if dh == h else None; print('Error validating download (got %s instead of %s), please try manual install' % (dh, h) if dh != h else 'Please restart Sublime Text to finish installation')"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/snuffy/tealeaf_intro_lesson3_sinatra",
+		"/home/snuffy/tealeaf_intro_lesson3_sinatra/views"
+	],
+	"file_history":
+	[
+		"/home/snuffy/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+		"/home/snuffy/.config/sublime-text-3/Packages/TodoReview/TodoReview.sublime-settings",
+		"/home/snuffy/.config/sublime-text-3/Packages/User/TodoReview.sublime-settings",
+		"/home/snuffy/.config/sublime-text-3/Packages/User/Package Control.sublime-settings",
+		"/home/snuffy/.config/sublime-text-3/Packages/Package Control/Package Control.sublime-settings",
+		"/home/snuffy/tealeaf_intro_lesson1_blackjack/blackjack.rb",
+		"/home/snuffy/tealeaf_intro_lesson2_bj_oop/bj_oop.rb",
+		"/home/snuffy/tealeaf_intro_lesson2_prs_oop/prs_oo.rb",
+		"/home/snuffy/tealeaf_prep/tealeaf_intro_lesson2_oo_ruby/classes_and_objects_part1.rb",
+		"/home/snuffy/tealeaf_prep/tealeaf_intro_lesson2_oo_ruby/oo_workbook.rb",
+		"/home/snuffy/tealeaf_intro_lesson2_oo_ruby/classes_and_objects_part1.rb",
+		"/home/snuffy/.config/sublime-text-3/Packages/Default/Preferences.sublime-settings",
+		"/home/snuffy/.config/sublime-text-3/Installed Packages/Package Control.sublime-package",
+		"/home/snuffy/Downloads/Package Control.sublime-package",
+		"/home/snuffy/tealeaf_intro_lesson1_tictactoe/tictactoe.rb",
+		"/home/snuffy/tealeaf_prep/loop.rb",
+		"/home/snuffy/tealeaf_prep/loops_ex2.rb",
+		"/home/snuffy/tealeaf_prep/loops_ex4.rb",
+		"/home/snuffy/tealeaf_intro_lesson1_calc/rock_paper_scissors.rb",
+		"/home/snuffy/tealeaf_prep/do_while.rb",
+		"/home/snuffy/exercises/daffy_duck.rb",
+		"/home/snuffy/exercises/deaf_grandma.rb",
+		"/home/snuffy/exercises/def_ask_question.rb",
+		"/home/snuffy/exercises/cameradownload.rb",
+		"/home/snuffy/tealeaf_prep/tictactoe.rb",
+		"/home/snuffy/tealeaf_intro_lesson1_calc/calc.rb",
+		"/home/snuffy/exercises/menu.rb",
+		"/home/snuffy/exercises/leap_years.rb",
+		"/home/snuffy/exercises/graph_slope.rb",
+		"/home/snuffy/exercises/angry_boss.rb",
+		"/home/snuffy/tealeaf_prep/ruby_exercises_workbook.rb",
+		"/home/snuffy/tealeaf_prep/.git/COMMIT_EDITMSG",
+		"/home/snuffy/tealeaf_prep/more_stuff_ex1.rb",
+		"/home/snuffy/tealeaf_prep/exercises_exercises.rb",
+		"/home/snuffy/tealeaf_prep/proc_example.rb",
+		"/home/snuffy/tealeaf_prep/passing_block.rb",
+		"/home/snuffy/tealeaf_prep/passing_proc.rb",
+		"/home/snuffy/tealeaf_prep/exception_example.rb",
+		"/home/snuffy/tealeaf_prep/inline_exception_example.rb",
+		"/home/snuffy/tealeaf_prep/divide_rescue.rb",
+		"/home/snuffy/tealeaf_prep/boolean_matchdata.rb",
+		"/home/snuffy/tealeaf_prep/boolean_regex.rb",
+		"/home/snuffy/tealeaf_prep/name.rb",
+		"/home/snuffy/tealeaf_prep/hashes_ex3.rb",
+		"/home/snuffy/tealeaf_prep/hashes_ex6.rb",
+		"/home/snuffy/tealeaf_prep/hashes_ex1.rb",
+		"/home/snuffy/tealeaf_prep/hashes_ex2_merge.rb",
+		"/home/snuffy/tealeaf_prep/optional_parameters.rb",
+		"/home/snuffy/tealeaf_prep/iterating_over_hashes.rb",
+		"/home/snuffy/tealeaf_prep/arrays_ex7.rb",
+		"/home/snuffy/tealeaf_prep/arrays_ex3.rb",
+		"/home/snuffy/tealeaf_prep/arrays_ex1.rb",
+		"/home/snuffy/tealeaf_prep/array_operators.rb",
+		"/home/snuffy/tealeaf_prep/practice_each.rb",
+		"/home/snuffy/tealeaf_prep/basics.rb",
+		"/home/snuffy/tealeaf_prep/methods.rb",
+		"/home/snuffy/tealeaf_prep/age.rb",
+		"/home/snuffy/tealeaf_prep/temp.rb",
+		"/home/snuffy/tealeaf_prep/flow_control.rb",
+		"/home/snuffy/tealeaf_prep/useful_loop.rb",
+		"/home/snuffy/tealeaf_prep/conditional_loop.rb",
+		"/home/snuffy/tealeaf_prep/conditional_loop_with_next.rb",
+		"/home/snuffy/tealeaf_prep/conditional_loop_with_break.rb",
+		"/home/snuffy/tealeaf_prep/fibonacci.rb",
+		"/home/snuffy/tealeaf_prep/loops_ex3.rb",
+		"/home/snuffy/tealeaf_prep/next_loop.rb",
+		"/home/snuffy/tealeaf_prep/countdown.rb",
+		"/home/snuffy/tealeaf_prep/until.rb",
+		"/home/snuffy/tealeaf_prep/perform_again.rb",
+		"/home/snuffy/tealeaf_prep/countdown3.rb",
+		"/home/snuffy/tealeaf_prep/countdown4.rb",
+		"/home/snuffy/while.rb",
+		"/home/snuffy/exercises/1.txt",
+		"/home/snuffy/rails_projects/simple_cms/app/models/subject.rb",
+		"/home/snuffy/rails_projects/simple_cms/app/models/admin_user.rb",
+		"/home/snuffy/rails_projects/simple_cms/app/models/page.rb",
+		"/home/snuffy/rails_projects/simple_cms/db/migrate/20141028072831_create_users.rb",
+		"/home/snuffy/rails_projects/simple_cms/db/migrate/20141102123007_alter_users.rb",
+		"/home/snuffy/rails_projects/simple_cms/db/migrate/20141108163920_create_subjects.rb",
+		"/home/snuffy/rails_projects/simple_cms/db/migrate/20141111062517_create_admin_users_pages_join.rb",
+		"/home/snuffy/rails_projects/simple_cms/db/migrate/20141108163936_create_pages.rb",
+		"/home/snuffy/rails_projects/simple_cms/db/migrate/20141108163950_create_sections.rb",
+		"/home/snuffy/rails_projects/simple_cms/config/database.yml",
+		"/home/snuffy/rails_projects/simple_cms/config/routes.rb",
+		"/home/snuffy/rails_projects/simple_cms/public/demo/index.html",
+		"/home/snuffy/rails_projects/simple_cms/app/views/demo/index.html.erb",
+		"/home/snuffy/rails_projects/simple_cms/app/views/demo/hello.html.erb",
+		"/home/snuffy/rails_projects/simple_cms/app/controllers/demo_controller.rb",
+		"/home/snuffy/rails_projects/simple_cms/db/schema.rb",
+		"/home/snuffy/rails_projects/simple_cms/db/migrate/20141028070632_do_nothing_yet.rb",
+		"/home/snuffy/rails_projects/simple_cms/Gemfile",
+		"/home/snuffy/exercises/sort_manual.rb",
+		"/home/snuffy/exercises/playlist.rb",
+		"/home/snuffy/exercises/writingreading.rb",
+		"/home/snuffy/exercises/build_sort_array.rb",
+		"/home/snuffy/exercises/bottles_of_beer.rb",
+		"/home/snuffy/exercises/temp.rb",
+		"/home/snuffy/exercises/roman_numerals.rb",
+		"/home/snuffy/exercises/prompting_passing.rb",
+		"/home/snuffy/exercises/function_return.rb",
+		"/home/snuffy/exercises/ex26.rb",
+		"/home/snuffy/exercises/print_from_file.rb",
+		"/home/snuffy/exercises/txt_editor.rb",
+		"/home/snuffy/exercises/copy_file.rb",
+		"/home/snuffy/exercises/open_file.rb",
+		"/home/snuffy/exercises/ex25.rb",
+		"/home/snuffy/exercises/module_ex25.rb",
+		"/home/snuffy/rails_projects/demo_app/Gemfile",
+		"/home/snuffy/rails_projects/demo_app/db/schema.rb",
+		"/home/snuffy/rails_projects/demo_app/db/seeds.rb",
+		"/home/snuffy/rails_projects/demo_app/config/initializers/secret_token.rb",
+		"/home/snuffy/rails_projects/demo_app/public/assets/application-40df7bd3122916db967025e08e354004.js",
+		"/home/snuffy/rails_projects/demo_app/public/assets/application-40df7bd3122916db967025e08e354004.js.gz",
+		"/home/snuffy/rails_projects/demo_app/Rakefile",
+		"/home/snuffy/rails_projects/demo_app/app/models/user.rb",
+		"/home/snuffy/rails_projects/demo_app/config/routes.rb",
+		"/home/snuffy/rails_projects/demo_app/app/models/micropost.rb",
+		"/home/snuffy/rails_projects/demo_app/config/application.rb",
+		"/home/snuffy/rails_projects/demo_app/app/controllers/microposts_controller.rb",
+		"/home/snuffy/rails_projects/first_app/Gemfile",
+		"/home/snuffy/.gemrc",
+		"/home/snuffy/rails_projects/sample_app/app/views/static_pages/home.html.erb",
+		"/home/snuffy/rails_projects/sample_app/Guardfile",
+		"/home/snuffy/rails_projects/sample_app/Gemfile",
+		"/home/snuffy/rails_projects/sample_app/spec/requests/static_pages_spec.rb",
+		"/home/snuffy/rails_projects/sample_app/spec/spec_helper.rb",
+		"/home/snuffy/rails_projects/sample_app/db/seeds.rb",
+		"/home/snuffy/rails_projects/sample_app/config/initializers/inflections.rb"
+	],
+	"find":
+	{
+		"height": 26.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"<current file>",
+			"/home/snuffy/Desktop",
+			"/home/snuffy",
+			"/home/snuffy/tealeaf_prep",
+			"/home/snuffy"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"BLACKJACK",
+			"21",
+			"player",
+			"while dealer.total < 17\n  # Hit\n  puts \"Dealing card to player: #{new_card}\"\n  player.add_card(deck.deal_one)\n  player.show_hand\n\n  if dealer_total == 21\n    puts \"sorry, dealer hit Blackjack, you lose!\"\n    exit\n  elsif player.is_busted?\n    puts \"Dealer busted, you win!\"\n    exit\n  end\nend",
+			"player",
+			"dealer_hand",
+			"player_hand",
+			"pry",
+			"random",
+			"computer",
+			"lose",
+			"scissors",
+			"input_",
+			"computer_rps",
+			"user_choice",
+			"update",
+			"# This renames the picture, but since \"name\"\n# has a big long path on it, and \"new_name\"\n# doesn't, it also moves the file to the\n# current working directory, which is now\n# Katy's PictureInbox folder.\n# Since it's a * move * , this effectively\n# downloads and deletes the originals.\n# And since this is a memory card, not a\n# hard drive, each of these takes a second\n# or so; hence, the little dots let her\n# know that my program didn't hose her machine.\n# (Some marriage advice from your favorite\n# author/programmer: it's all about the\n# little things.)\n# Now where were we? Oh, yeah...",
+			"\n#"
+		],
+		"highlight": false,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"dealer_cards",
+			"player_cards",
+			"number_",
+			"computer_choice",
+			"user_input"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "main.rb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 966,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								223,
+								223
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Rails/Ruby on Rails.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 1,
+					"file": "views/game.erb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 960,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								177,
+								177
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Rails/HTML (Rails).tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.5,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 112.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "blackjack.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"preferencsubl",
+				".config/sublime-text-3/Packages/User/Preferences.sublime-settings"
+			],
+			[
+				"packagecontro",
+				".config/sublime-text-3/Installed Packages/Package Control.sublime-package"
+			],
+			[
+				"packagecontrol",
+				"Downloads/Package Control.sublime-package"
+			],
+			[
+				"gem",
+				"Gemfile"
+			],
+			[
+				"applica",
+				"config/application.rb"
+			],
+			[
+				"user",
+				"app/models/user.rb"
+			],
+			[
+				"micro",
+				"app/models/micropost.rb"
+			],
+			[
+				"route",
+				"config/routes.rb"
+			],
+			[
+				"spec",
+				"spec/spec_helper.rb"
+			],
+			[
+				"gemfi",
+				"Gemfile"
+			],
+			[
+				"home",
+				"app/views/static_pages/home.html.erb"
+			],
+			[
+				"routes",
+				"config/routes.rb"
+			],
+			[
+				"inde",
+				"public/index.html"
+			],
+			[
+				"git",
+				"config/initializers/inflections.rb"
+			],
+			[
+				"read",
+				"README.md"
+			],
+			[
+				".git",
+				".gitignore"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 1,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 282.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
